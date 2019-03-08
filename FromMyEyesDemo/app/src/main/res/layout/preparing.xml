@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/camera"
+        android:id="@+id/prepairingimg"
+        android:layout_weight="0.72" />
+
+    <Button
+        android:text="SHARE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/share_btn"
+        android:layout_weight="0.03" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtlongitude"
+        android:layout_weight="0.04"
+        android:text="hfghfgh" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtlatitude"
+        android:layout_weight="0.04"
+        android:text="ghfghfgh" />
+
+    <Button
+        android:text="getlocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/getGpsLocations"
+        android:layout_weight="0.09" />
+</LinearLayout>

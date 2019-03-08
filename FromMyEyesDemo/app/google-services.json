@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816532118332",
+    "firebase_url": "https://frommyeyes-cf38b.firebaseio.com",
+    "project_id": "frommyeyes-cf38b",
+    "storage_bucket": "frommyeyes-cf38b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816532118332:android:f757dcd6999dbbd9",
+        "android_client_info": {
+          "package_name": "com.example.raif.frommyeyesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816532118332-7k60sjptujt8hi7chi79b3a6pf2q3rvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raif.frommyeyesdemo",
+            "certificate_hash": "ffecc11ca27fd8e57d4873d7343f50b2059865a8"
+          }
+        },
+        {
+          "client_id": "816532118332-24v3m3slchiog8r2v43consglff8chgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFBcrAi5U7RNE8U_iKOMWmVfn-KuU3NU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816532118332-24v3m3slchiog8r2v43consglff8chgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
